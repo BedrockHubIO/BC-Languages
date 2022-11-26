@@ -45,4 +45,6 @@
     "disableSwitchSupport": "Disable Switch Support",
     "restoringPurchases": "Restoring purchases...",
     "restoredPurchases": "Restored puchases"
+    "supportedServer": "Supported Server",
+    "supportedServerText": "This server is being support by us"
   },
