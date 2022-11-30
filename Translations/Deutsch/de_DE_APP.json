@@ -44,7 +44,8 @@
     "enableSwitchSupport": "Switch-Unterstützung aktivieren",
     "disableSwitchSupport": "Switch-Unterstützung deaktivieren",
     "restoringPurchases": "Käufe werden wiederhergestellt...",
-    "restoredPurchases": "Käufe wiederhergestellt"
+    "restoredPurchases": "Käufe wiederhergestellt",
     "supportedServer": "Unterstützter Server",
-    "supportedServerText": "Dieser Server wird von uns untersützt!"
+    "supportedServerText": "Dieser Server wird von uns untersützt!",
+    "remove": "Entfernen"
   },

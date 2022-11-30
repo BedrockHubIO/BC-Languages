@@ -46,5 +46,6 @@
     "restoringPurchases": "Restoring purchases...",
     "restoredPurchases": "Restored puchases"
     "supportedServer": "Supported Server",
-    "supportedServerText": "This server is being support by us"
+    "supportedServerText": "This server is being support by us",
+    "remove": "Remove"
   },
