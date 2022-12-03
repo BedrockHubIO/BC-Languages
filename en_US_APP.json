@@ -1,5 +1,6 @@
 "en_US": {
     "featured": "Featured",
+    "partner": "Partner",
     "custom": "Custom",
     "settings": "Settings",
     "language": "Select Language",
@@ -28,11 +29,9 @@
     "premium.customServerPack": "Custom Server Pack",
     "premium.customServerPack_": "(for non supported servers)",
     "premium.queryForCustom": "Query Information for Custom Servers",
-    "support.mail": "apps@rushnation.net",
-    "support.text": "Do you have a concern, a question or feedback? We are available for you! Contact us at: ",
+    "support.text": "Do you have a concern, a question or feedback? We are available for you! Contact us at: <a href='mailto:apps@rushnation.net'>apps@rushnation.net</a>",
     "privacy.title": "Privacy Policy",
-    "privacy.text": "By using this app, you agree to the privacy policy and terms of service. Which you can find at: ",
-    "privacy.url": "https://imprint.bedrockhub.io",
+    "privacy.text": "By using this app, you agree to the privacy policy and terms of service. Which you can find at: https://imprint.bedrockhub.io",
     "privacy.accept": "Accept",
     "error.packDownload": "An error occured while downloading the server pack!",
     "error.setPack": "Make sure to set the texturepack in the settings!",
@@ -44,8 +43,8 @@
     "enableSwitchSupport": "Enable Switch Support",
     "disableSwitchSupport": "Disable Switch Support",
     "restoringPurchases": "Restoring purchases...",
-    "restoredPurchases": "Restored puchases"
+    "restoredPurchases": "Restored puchases",
     "supportedServer": "Supported Server",
     "supportedServerText": "This server is being support by us",
     "remove": "Remove"
-  },
+  }
