@@ -1,4 +1,4 @@
- "de_DE": [
+"de_DE": [
     {
       "q": "Welche Serverpacks werden unterstützt?",
       "a": "Die BedrockConnect App untersützt jeden Server, welcher in unserer eigenen Server-Liste aufgelistet ist. Um das Server-Texturenpaket des jeweiligen Servers herunterzuladen, klicken sie einfach auf das Pack neben dem Server. <br>Serverliste:<br> <br> 👉 <a href='https://serverlist.bedrockhub.io/'>https://serverlist.bedrockhub.io/</a>"
@@ -21,9 +21,10 @@
     },
     {
       "q": "Ich habe einen Fehler entdeckt oder brauche Hilfe!",
-      "a": "Hey, keine Sorge! Wir helfen dir gerne auf unserem Discord-Server! <br><br> Unser Discord-Server: <br> <br> 👉 <a href='https://discord .bedrockhub.io'>https://discord.bedrockhub.io</a>"
+      "a": "Hey, keine Sorge! Wir helfen dir gerne auf unserem Discord-Server! <br><br> Unser Discord-Server: <br> <br> 👉 <a href='https://discord.bedrockhub.io'>https://discord.bedrockhub.io</a>"
     },
     {
       "q": "Wie kann ich mich für eine Partnerschaft bewerben?",
       "a": "Partner haben bei uns einen besonderen Status. Sie werden in der Featured Server Liste geführt und sind somit für jeden sichtbar! <br> <br> Die Anforderungen werden auf unserem Discord Server aufgelistet, wo auch die weitere Kommunikation stattfindet. <br> <br> 👉 <a href='https://discord.bedrockhub.io'>https://discord.bedrockhub.io</a>"
-    },
+    }
+  ]
