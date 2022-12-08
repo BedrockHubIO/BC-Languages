@@ -39,7 +39,7 @@
     "warning.notCloseApp": "Не сворачивайте и не закрывайте приложение, чтобы предотвратить нежелательное поведение!",
     "select": "Выберите",
     "langSubtitle": "Выберите язык по своему усмотрению",
-    "selected": "Выбрано",
+    "selected": "Выбрать",
     "enableSwitchSupport": "Включить поддержку Switch",
     "disableSwitchSupport": "Выключить поддержку Switch",
     "restoringPurchases": "Восстановление покупок...",
