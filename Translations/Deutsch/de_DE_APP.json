@@ -47,7 +47,7 @@
     "supportedServer": "Unterstützter Server",
     "supportedServerText": "Dieser Server wird von uns untersützt!",
     "remove": "Entfernen"
-    "error.startServer": "Der Server konnte auf dem angegebenen Port nicht gestartet werden! Bitte stellen Sie sicher, dass der Port nicht verwendet wird!",
-    "filesPermission": "Bitte stellen Sie sicher, dass die Anwendung auf Dateien zugreifen darf.",
+    "error.startServer": "Der Server konnte auf dem angegebenen Port nicht gestartet werden! \nBitte stellen Sie sicher, dass der Port nicht verwendet wird!",
+    "filesPermission": "Bitte stellen Sie sicher, dass die App auf Dateien zugreifen darf.",
     "openSettings": "Einstellungen öffnen"
   }
