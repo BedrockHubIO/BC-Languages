@@ -33,7 +33,7 @@
     "privacy.title": "Privacy Policy",
     "privacy.text": "By using this app, you agree to the privacy policy and terms of service. Which you can find at: https://imprint.bedrockhub.io",
     "privacy.accept": "Accept",
-    "error.packDownload": "An error occured while downloading the server pack!",
+    "error.packDownload": "An error occurred while downloading the server pack!",
     "error.setPack": "Make sure to set the texturepack in the settings!",
     "warning.reminder": "Reminder",
     "warning.notCloseApp": "Do not minimize or close the app to prevent unwanted behaviour!",
