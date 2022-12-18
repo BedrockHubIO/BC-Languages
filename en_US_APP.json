@@ -49,5 +49,8 @@
     "remove": "Remove",
     "error.startServer": "Could not start the server on the provided port!\nPlease make sure the port is not in use!",
     "filesPermission": "Please make sure to allow the app to access files.",
-    "openSettings": "Open Settings"
+    "openSettings": "Open Settings",
+    "error": "Error",
+    "joinDiscord": "Join our Discord"
+  },
   }
