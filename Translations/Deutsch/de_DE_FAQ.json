@@ -1,23 +1,23 @@
 "de_DE": [
     {
       "q": "Welche Serverpacks werden unterstützt?",
-      "a": "Die BedrockConnect App unterstützt jeden Server, welcher in unserer eigenen Server-Liste aufgelistet ist. Um das Server-Texturenpaket des jeweiligen Servers herunterzuladen, klicke einfach auf das Pack neben dem Server. <br>Serverliste:<br> <br> 👉 <a href='https://serverlist.bedrockhub.io/'>https://serverlist.bedrockhub.io/</a>"
+      "a": "Die BedrockConnect App unterstützt jeden Server, welcher in unserer eigenen Server-Liste aufgelistet ist. Um das ServerPack des jeweiligen Servers herunterzuladen, klicke einfach auf das Pack neben dem Server. <br>Serverliste:<br> <br> 👉 <a href='https://serverlist.bedrockhub.io/'>https://serverlist.bedrockhub.io/</a>"
     },
     {
-      "q": "Wie kann ich mein Texturenpaket im Spiel ändern?",
+      "q": "Wie kann ich mein Texturepack im Spiel ändern?",
       "a": "Zunächst musst du den Speicherpfad des jeweiligen Serverpacks nachsehen. <br>Gehe zu: Einstellungen → Speicher → Zwischengespeicherte Daten. <br> Dort muss der jeweilige Server bei welchen du das Pack gelöscht haben willst, löschen. <br> <br> Dieses Video dient als Hilfe <br>👉 <a href='https://www.youtube.com/watch?v=HU8I3jiznz8'>https://www.youtube.com/watch?v=HU8I3jiznz8</a>"
     },
     {
-      "q": "Wie wähle ich ein Texturenpaket aus?",
-      "a": "Um jede Art von Verwirrung zu vermeiden, ist der gesamte Vorgang sehr einfach und unkompliziert gehalten. Navigiere zu den Einstellungen unserer App, aktiviere \"Server Pack\" und wähle das gewünschte Texturenpaket aus, indem du \"Set\" drückst. < br> <br>Das Texturenpaket muss eine .zip Datei sein!<br> <br>Den Rest erledigt unsere App von ganz alleine."
+      "q": "Wie wähle ich ein Texturepack aus?",
+      "a": "Um jede Art von Verwirrung zu vermeiden, ist der gesamte Vorgang sehr einfach und unkompliziert gehalten. Navigiere zu den Einstellungen unserer App, aktiviere \"Server Pack\" und wähle das gewünschte Texturepack aus, indem du \"Set\" drückst. < br> <br>Das Texturepack muss eine .zip Datei sein!<br> <br>Den Rest erledigt unsere App von ganz alleine."
     },
     {
-      "q": "Wie füge ich Server-Packs hinzu, welche nicht unterstützt werden?",
-      "a": "Dieses Feature ist nur für Premium-Käufer!! <br> <br> Falls du Premiun-Nutzer bist, kannst du dies unter \"Custom ServerPack\" hinzufügen. Navigiere einfach zur Custom Serverlist, wähle  einen nicht unterstützten Server aus und drücke \"Custom Pack\" und wähle ein Serverpack aus. <br> Während dieses Vorgangs prüft unser System im Hintergrund, ob das Pack verschlüsselt ist oder nicht. Wenn es verschlüsselt ist, wird automatisch ein Sub-Pack erstellt. <br> <br > Ein Serverpack ist ein Ressourcenpaket vom Server und NICHT mit einem normalen Texturenpaket AUSTAUSCHEN!!! <br> <br> Bitte deinen bevorzugten Server das Serverpack zu veröffentlichen."
+      "q": "Wie füge ich Serverpacks hinzu, welche nicht unterstützt werden?",
+      "a": "Dieses Feature ist nur für Premium-Nutzer!! <br> <br> Falls du Premium-Nutzer bist, kannst du dies unter \"Custom ServerPack\" hinzufügen. Navigiere einfach zur Custom Serverlist, wähle einen nicht unterstützten Server aus und drücke \"Custom Pack\" und wähle ein Serverpack aus. <br> Während dieses Vorgangs prüft unser System im Hintergrund, ob das Pack verschlüsselt ist oder nicht. Wenn es verschlüsselt ist, wird automatisch ein Sub-Pack erstellt. <br> <br > Ein Serverpack ist ein Ressourcenpaket vom Server und NICHT mit einem normalen Texturepack AUSTAUSCHEN!!! <br> <br> Bitte deinen bevorzugten Server das Serverpack zu veröffentlichen."
     },
     {
       "q": "Warum kann ich keinen Server beitreten?",
-      "a": "Bitte denke daran, dass dein Smartphone im selben WLAN-Netzwerk angemeldet sein muss wie deine Konsole!!! <br><br>➡️Wenn deine Konsole mit einem von deinem Mobiltelefon bereitgestellten Hotspot verbunden ist, wird dies nicht mit dem BedrockConnect-Server verbinden können!!!<br><br>➡️ Wenn es Einschränkungen in deinen WLAN-Einstellungen gibt, wie z. B. Kindersicherung, funktioniert es möglicherweise nicht . <br><br>➡️ Um beitreten zu können, musst du Xbox Gold oder Playstation+ besitzen (Natürlich abhängig davon, auf welcher Konsole  du spielst)!"
+      "a": "Bitte denke daran, dass dein Smartphone im selben WLAN-Netzwerk angemeldet sein muss wie deine Konsole!!! <br><br>➡️Wenn deine Konsole mit einem von deinem Mobiltelefon bereitgestellten Hotspot verbunden ist, wird dies nicht mit dem BedrockConnect-Server verbinden können!!!<br><br>➡️ Wenn es Einschränkungen in deinen WLAN-Einstellungen gibt, wie z. B. Kindersicherung, funktioniert es möglicherweise nicht . <br><br>➡️ Um beitreten zu können, musst du Xbox Gold oder Playstation+ besitzen (Natürlich abhängig davon, auf welcher Konsole du spielst)!"
     },
     {
       "q": "Ich habe einen Fehler entdeckt oder brauche Hilfe!",
@@ -25,6 +25,6 @@
     },
     {
       "q": "Wie kann ich mich für eine Partnerschaft bewerben?",
-      "a": "Partner haben bei uns einen besonderen Status. Sie werden in der Featured Server Liste geführt und sind somit für jeden sichtbar! <br> <br> Die Anforderungen werden auf unserem Discord Server aufgelistet, wo auch die weitere Kommunikation stattfindet. <br> <br> 👉 <a href='https://discord.bedrockhub.io'>https://discord.bedrockhub.io</a>"
+      "a": "Partner haben bei uns einen besonderen Status, sie werden in der Featured Server Liste geführt und sind somit für jeden sichtbar! <br> <br> Die Anforderungen werden auf unserem Discord Server aufgelistet, wo auch die weitere Kommunikation stattfindet. <br> <br> 👉 <a href='https://discord.bedrockhub.io'>https://discord.bedrockhub.io</a>"
     }
   ]
