@@ -51,4 +51,6 @@
     "filesPermission": "Bitte stelle sicher, dass die App auf Dateien zugreifen darf.",
     "openSettings": "Einstellungen öffnen",
     "error": "Fehler",
-    "joinDiscord": "Trete unseren Discord bei!"}
+    "joinDiscord": "Trete unseren Discord bei!",
+    "startWithAd": "Werbung schauen & Starten"
+}
