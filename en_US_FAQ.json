@@ -13,7 +13,7 @@
     },
     {
       "q": "How can i use unsupported serverpacks?",
-      "a": "This feature is only for premium buyers!! <br><br> If purchased, you can add a \"Custom ServerPack\" to a server. Just navigate to the Custom Serverlist, select an unsupported server, press \"Custom Pack\" and select a Server Pack. <br>During this procedure, our system does some background checks whether the pack is encrypted or not. If it is encrypted, a subpack will be created automatically. <br><br> A Server Pack is a resource pack from the server. DO NOT INTERCHANGE with a normal TexturePack!!! <br><br> Ask your favorite server server to share their Server Pack with you!"
+      "a": "This feature is only for premium buyers!! <br><br> If purchased, you can add a \"Custom ServerPack\" to a server. Just navigate to the Custom Serverlist, select an unsupported server, press \"ServerPack\" and select a Server Pack. <br>During this procedure, our system does some background checks whether the pack is encrypted or not. If it is encrypted, a subpack will be created automatically. <br><br> A Server Pack is a resource pack from the server. DO NOT INTERCHANGE with a normal TexturePack!!! <br><br> Ask your favorite server server to share their Server Pack with you!"
     },
     {
       "q": "Why i'm not able to join?",

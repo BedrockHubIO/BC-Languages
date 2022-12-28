@@ -13,7 +13,7 @@
     },
     {
       "q": "Wie füge ich Serverpacks hinzu, welche nicht unterstützt werden?",
-      "a": "Dieses Feature ist nur für Premium-Nutzer!! <br> <br> Falls du Premium-Nutzer bist, kannst du dies unter \"Custom ServerPack\" hinzufügen. Navigiere einfach zur Custom Serverlist, wähle einen nicht unterstützten Server aus und drücke \"Custom Pack\" und wähle ein Serverpack aus. <br> Während dieses Vorgangs prüft unser System im Hintergrund, ob das Pack verschlüsselt ist oder nicht. Wenn es verschlüsselt ist, wird automatisch ein Sub-Pack erstellt. <br> <br > Ein Serverpack ist ein Ressourcenpaket vom Server und NICHT mit einem normalen Texturepack AUSTAUSCHEN!!! <br> <br> Bitte deinen bevorzugten Server das Serverpack zu veröffentlichen."
+      "a": "Dieses Feature ist nur für Premium-Nutzer!! <br> <br> Falls du Premium-Nutzer bist, kannst du dies unter \"Custom ServerPack\" hinzufügen. Navigiere einfach zur Custom Serverlist, wähle einen nicht unterstützten Server aus und drücke \"ServerPack\" und wähle ein Serverpack aus. <br> Während dieses Vorgangs prüft unser System im Hintergrund, ob das Pack verschlüsselt ist oder nicht. Wenn es verschlüsselt ist, wird automatisch ein Sub-Pack erstellt. <br> <br > Ein Serverpack ist ein Ressourcenpaket vom Server und NICHT mit einem normalen Texturepack AUSTAUSCHEN!!! <br> <br> Bitte deinen bevorzugten Server das Serverpack zu veröffentlichen."
     },
     {
       "q": "Warum kann ich keinen Server beitreten?",
