@@ -1,23 +1,23 @@
 "en_US": [
     {
-      "q": "Which serverpacks are supported?",
-      "a": "We support any server that is listed in the table attached to the github link below and has a web link in the right column. <br>To directly download the pack, just locate the pack you are looking for and click on the web link. <br> <br> 👉  <a href='https://serverlist.bedrockhub.io/'>https://serverlist.bedrockhub.io/</a>"
+      "q": "Which Server Packs are supported?",
+      "a": "We support any server that is listed in the table attached to the GitHub link below and has a web link in the right column. <br>To directly download the pack, just locate the pack you are looking for and click on the web link. <br> <br> 👉  <a href='https://serverlist.bedrockhub.io/'>https://serverlist.bedrockhub.io/</a>"
     },
     {
-      "q": "How can I change my texturepack ingame?",
+      "q": "How can I change my Texture Pack ingame?",
       "a": "In the first place, you should locate where the storage of your server packs is stored. <br>Go to Settings → Storage → Cached Data <br> After that you just delete the desired server, so you can download the new server pack again. <br> <br> It is roughly shown here <br>👉 <a href='https://www.youtube.com/watch?v=HU8I3jiznz8'>https://www.youtube.com/watch?v=HU8I3jiznz8</a>"
     },
     {
-      "q": "How do I select a texture pack?",
+      "q": "How do I select a Texture Pack?",
       "a": "To avoid any kind of confusion, the whole procedure is kept very simple and straightforward. Navigate to the app's settings, activate \"Server Pack\", and select your desired pack by pressing \"Select\". <br> <br>Please note that your pack should have a .zip or .mcpack format! <br> <br> The app does the rest all by itself, so you don't have to worry about anything else!"
     },
     {
-      "q": "How can i use unsupported serverpacks?",
-      "a": "This feature is only for premium buyers!! <br><br> If purchased, you can add a \"Custom ServerPack\" to a server. Just navigate to the Custom Serverlist, select an unsupported server, press \"ServerPack\" and select a Server Pack. <br>During this procedure, our system does some background checks whether the pack is encrypted or not. If it is encrypted, a subpack will be created automatically. <br><br> A Server Pack is a resource pack from the server. DO NOT INTERCHANGE with a normal TexturePack!!! <br><br> Ask your favorite server server to share their Server Pack with you!"
+      "q": "How can I use unsupported Server Packs?",
+      "a": "This feature is only for Premium buyers!! <br><br> If purchased, you can add a \"Custom ServerPack\" to a server. Just navigate to the Custom Server List, select an unsupported server, press \"Server Pack\" and select a Server Pack. <br>During this procedure, our system does some background checks whether the pack is encrypted or not. If it is encrypted, a subpack will be created automatically. <br><br> A Server Pack is a resource pack from the server. DO NOT INTERCHANGE with a normal Texture Pack!!! <br><br> Ask your favorite server to share their Server Pack with you!"
     },
     {
-      "q": "Why i'm not able to join?",
-      "a": "Please remember that your device must be in the same network as your console!!! <br><br>➡️If your console is connected to a hotspot provided by your cell phone, you will not be able to connect to the BedrockConnect server!!! <br><br>➡️ If there are restrictions in your wifi settings, such as parental controls or child locks, it might not work. This is due to the respective router settings. <br><br>➡️ To join you must own Xbox Gold or PSPlus (depending on what console you are playing on of course)!"
+      "q": "Why I'm not able to join?",
+      "a": "Please remember that your device must be in the same network as your console!!! <br><br>➡️If your console is connected to a hotspot provided by your cell phone, you will not be able to connect to the BedrockConnect server!!! <br><br>➡️ If there are restrictions in your WIFI settings, such as parental controls or child locks, it might not work. This is due to the respective router settings. <br><br>➡️ To join you must own Xbox Gold or PlayStation Plus (depending on what console you are playing on of course)!"
     },
     {
       "q": "How can I report a bug?",
