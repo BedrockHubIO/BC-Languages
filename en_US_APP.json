@@ -4,11 +4,11 @@
     "custom": "Custom",
     "settings": "Settings",
     "language": "Select Language",
-    "enableServerPacks": "Enable ServerPacks",
-    "texturePackPath": "TexturePack Path",
+    "enableServerPacks": "Enable Server Packs",
+    "texturePackPath": "Texture Pack Path",
     "selectPingInterval": "Select Ping Interval",
     "addServer": "Add Server",
-    "letsAdd": "Lets add a",
+    "letsAdd": "Let's add a",
     "newCustomServer": "New Server",
     "pleaseEnterName": "Please enter a name",
     "pleaseEnterIP": "Please enter an IP/Domain",
@@ -21,7 +21,7 @@
     "confirmation": "Confirmation",
     "confirm": "Confirm",
     "cancel": "Cancel",
-    "deleteConfirm": "Are you sure that you want to remove this server",
+    "deleteConfirm": "Are you sure that you want to remove this server?",
     "getPremium": "Get Premium",
     "premium.features": "Premium Features",
     "premium.noAds": "No Ads",
@@ -51,6 +51,6 @@
     "filesPermission": "Please make sure to allow the app to access files.",
     "openSettings": "Open Settings",
     "error": "Error",
-    "joinDiscord": "Join our Discord"
+    "joinDiscord": "Join our Discord",
     "startWithAd": "Watch Ad & Start"
   }
