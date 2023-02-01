@@ -36,7 +36,7 @@
     "error.packDownload": "An error occurred while downloading the server pack!",
     "error.setPack": "Make sure to set the texturepack in the settings!",
     "warning.reminder": "Reminder",
-    "warning.notCloseApp": "Do not minimize or close the app to prevent unwanted behaviour!\n \nOnce you have entered the server, you can close it again!!",
+    "warning.notCloseApp": "Do not minimize or close the app to prevent unwanted behaviour!\n \nIf you enter the server, you can close the app again!",
     "select": "Select",
     "langSubtitle": "Select a language of your choice",
     "selected": "Selected",

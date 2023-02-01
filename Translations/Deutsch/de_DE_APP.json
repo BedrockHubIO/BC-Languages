@@ -36,7 +36,7 @@
     "error.packDownload": "Beim Herunterladen des ServerPacks ist ein Fehler aufgetreten.",
     "error.setPack": "Stelle sicher, dass das Texturepack in den Einstellungen festgelegt ist!",
     "warning.reminder": "Erinnerung",
-    "warning.notCloseApp": "Minimiere oder schließe die App nicht, um unerwünschtes Verhalten zu verhindern!\n \nSobald du den Server betreten hast, kannst du die wieder schließen!!",
+    "warning.notCloseApp": "Minimiere oder schließe die App nicht, um unerwünschtes Verhalten zu verhindern!\n \nSobald du den Server betreten hast, kannst du die wieder schließen!",
     "select": "Auswählen",
     "langSubtitle": "Wähle die Sprache deiner Wahl",
     "selected": "Ausgewählt",
