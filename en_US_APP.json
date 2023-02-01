@@ -36,7 +36,7 @@
     "error.packDownload": "An error occurred while downloading the server pack!",
     "error.setPack": "Make sure to set the texturepack in the settings!",
     "warning.reminder": "Reminder",
-    "warning.notCloseApp": "Do not minimize or close the app to prevent unwanted behaviour!",
+    "warning.notCloseApp": "Do not minimize or close the app to prevent unwanted behaviour!\n \nOnce you have entered the server, you can close it again!!!",
     "select": "Select",
     "langSubtitle": "Select a language of your choice",
     "selected": "Selected",
@@ -51,6 +51,6 @@
     "filesPermission": "Please make sure to allow the app to access files.",
     "openSettings": "Open Settings",
     "error": "Error",
-    "joinDiscord": "Join our Discord"
+    "joinDiscord": "Join our Discord",
     "startWithAd": "Watch Ad & Start"
-  }
+  },
