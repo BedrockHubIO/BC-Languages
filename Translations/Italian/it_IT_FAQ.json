@@ -1,0 +1,30 @@
+"it_IT": [
+    {
+      "q": "Quali Server Pack sono supportati?",
+      "a": "Supportiamo qualsiasi server presente nella lista nella pagina GitHub qui sotto e che abbia un link web nella colonna a destra <br>Per scaricare direttamente un Pack, basta trovare il Pack che stai cercando e cliccare sul link web. <br> <br> 👉  <a href='https://serverlist.bedrockhub.io/'>https://serverlist.bedrockhub.io/</a>"
+    },
+    {
+      "q": "Come posso cambiare la mia Texture Pack in gioco?",
+      "a": "In primo luogo, dovresti trovare dove sia salvato il Server Pack. <br>Vai nelle Impostazioni → Archiviazione → Dati nella cache <br> Dopo questo, puoi semplicemente eliminare il server desiderato, così potrai scaricare il nuovo Server Pack di nuovo. <br> <br> È all'incirca mostrato qui <br>👉 <a href='https://www.youtube.com/watch?v=HU8I3jiznz8'>https://www.youtube.com/watch?v=HU8I3jiznz8</a>"
+    },
+    {
+      "q": "Come seleziono una Texture Pack?",
+      "a": "Per evitare alcun tipo di confusione, tutta la procedura è molto semplice e dritta al sodo. Vai nelle Opzioni dell'app, attiva \"Server Pack\", e seleziona il Pack desiderato cliccando su \"Seleziona\". <br> <br>Il tuo pack deve essere in formato .zip o in .mcpack! <br> <br> L'app fa da sola il resto, quindi non ti devi preoccupare di nient'altro!"
+    },
+    {
+      "q": "Come posso utilizzare i Server Pack non supportati?",
+      "a": "Questa funziona è solamente disponibile per coloro che hanno acquistato Premium!! <br><br> Se acquistato, puoi aggiungere un \"Server Pack Personalizzato\" in un server. Devi solo andare nella Lista Server Personalizzati, seleziona un Server Personalizzato, clicca su \"Server Pack\" e seleziona un Server Pack. <br>Durante questa procedura, il nostro sistema fa dei controlli in background per controllare se il Pack sia criptato o no. Se lo è, verrà creato automaticamente un subpack. <br><br> Un Server Pack è un pacchetto di risorse inviato dal server. NON SCAMBIARLO con una Texture Pack normale!!! <br><br> Chiedi al tuo server preferito di condividere il loro Server Pack con te!"
+    },
+    {
+      "q": "Perché non riesco ad entrare?",
+      "a": "Ricorda che il tuo dispositivo deve essere collegato alla stessa connessione della tua console!!! <br><br>➡️Se la tua console è collegata all'hotspot del tuo telefono, non sarai in grado di connetterti al server di BedrockConnect!!! <br><br>➡️ Se ci sono delle restrizioni nelle tue impostazioni del WIFI, come il Filtro Famiglia o blocchi per bambini, potrebbe non funzionare. Questo per via delle rispettive impostazioni del router. <br><br>➡️ Per entrare devi avere Xbox Gold o PSPlus (a seconda della console con cui stai giocando ovviamente)!"
+    },
+    {
+      "q": "Come posso segnalare un bug?",
+      "a": "Hey, non preoccuparti! Siamo felici di aiutarti nel nostro server Discord! <br><br> Il nostro server Discord: <br><br> 👉 <a href='https://discord.bedrockhub.io'>https://discord.bedrockhub.io</a>"
+    },
+    {
+      "q": "È possibile richiedere una partnership?",
+      "a": "I Partner hanno uno condizione speciale con noi. Sono presenti nella lista dei Server In Evidenza! <br><br> I requisiti sono presenti nel nostro server Discord, dove avverranno ulteriori discorsi. <br><br> 👉 <a href='https://discord.bedrockhub.io'>https://discord.bedrockhub.io</a>"
+    }
+  ]
