@@ -30,9 +30,9 @@
     "premium.customServerPack": "Custom Server Pack",
     "premium.customServerPack_": "(for non supported servers)",
     "premium.queryForCustom": "Query Information for Custom Servers",
-    "support.text": "Do you have a concern, a question or feedback? We are available for you! Contact us at: <a href='mailto:apps@rushnation.net'>apps@rushnation.net</a>",
+    "support.text": "Do you have a concern, a question or feedback? We are available for you! Contact us at: <a href='https://privacy.rushnation.net'>Privacy Policy</a>\n<a href='https://terms.rushnation.net'>Terms & Conditions</a>",
     "privacy.title": "Privacy Policy",
-    "privacy.text": "By using this app, you agree to the privacy policy and terms of service. Which you can find at: https://imprint.bedrockhub.io",
+    "privacy.text": "By using this app, you agree to the privacy policy and terms of service. Which you can find at: <a href='https://privacy.rushnation.net'>Privacy</a>",
     "privacy.accept": "Accept",
     "error.packDownload": "An error occurred while downloading the server pack!",
     "error.setPack": "Make sure to set the texturepack in the settings!",
@@ -54,5 +54,6 @@
     "error": "Error",
     "joinDiscord": "Join our Discord",
     "startWithAd": "Watch Ad & Start",
-    "selectZipOrMcPack": "Please select a zip or a mcpack file"
+    "selectZipOrMcPack": "Please select a zip or a mcpack file",
+    "birthday": "Birthday"
   },
