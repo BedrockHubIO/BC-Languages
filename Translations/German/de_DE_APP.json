@@ -53,5 +53,13 @@
     "error": "Fehler",
     "joinDiscord": "Trete unseren Discord bei!",
     "startWithAd": "Werbung schauen & Starten",
-    "birthday": "Geburstag"
+    "birthday": "Geburstag",
+    "FAILED_MAKE_PACK": "Das Pack konnte nicht erstellt werden!",
+    "FAILED_START_SERVER": "Der Server konnte nicht gestartet werden.",
+    "FAILED_QUERY": "Der Server ist nicht erreichbar!",
+    "addServer.addressExist": "Dieser Server [IP/Port] existiert bereits in deiner Liste!",
+    "addServer.nameExist": "Ein Server mit dem gleichen Namen ist bereits in deiner Liste vorhanden!",
+    "addServer.notReachable": "Der Server ist nicht erreichbar!",
+    "error.ad": "Die Werbung konnte nicht geladen werden. \nBitte überprüfe deine Internetverbindung, schalte die Dienste wie Ad-Blocker oder VPNs aus!",
+    "error.makePack": "Das Pack konnte nicht erstellen werden!""
 },
