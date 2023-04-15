@@ -58,7 +58,7 @@
     "FAILED_MAKE_PACK": "Failed to make a pack!",
     "FAILED_START_SERVER": "Failed to start the server!",
     "FAILED_QUERY": "Failed to query server!",
-    "addServer.addressExist": "Server already exists in your list!",
+    "addServer.addressExist": "Server already [IP/Port] exists in your list!",
     "addServer.nameExist": "Server with the same name is already in your list!",
     "addServer.notReachable": "Server is not reachable!",
     "error.ad": "The ad could not be loaded. \nPlease check your internet connection and disable services such as ad-blockers or VPNs!",
