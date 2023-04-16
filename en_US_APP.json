@@ -62,5 +62,6 @@
     "addServer.nameExist": "Server with the same name is already in your list!",
     "addServer.notReachable": "Server is not reachable!",
     "error.ad": "The ad could not be loaded. \nPlease check your internet connection and disable services such as ad-blockers or VPNs!",
-    "error.makePack": "Could not make pack!"
+    "error.makePack": "Could not make pack!", 
+    "singleplayer.text": "With this method, you can have your own texture packs in both Realms and Singleplayer modes in Minecraft. This video tutorial on YouTube explains how the whole process works.<br><br>Tutorial 👉 <a href='https://youtube.com'>https://youtube.com</a>"
   },
