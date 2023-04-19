@@ -56,11 +56,12 @@
     "birthday": "Geburstag",
     "FAILED_MAKE_PACK": "Das Pack konnte nicht erstellt werden!",
     "FAILED_START_SERVER": "Der Server konnte nicht gestartet werden.",
-    "FAILED_QUERY": "Der Server ist nicht erreichbar!",
+    "FAILED_QUERY": "Der Server ist nicht erreichbar! \n Bitte prüfe, ob der Server überhaupt Online ist und für die Bedrock Edition gedacht ist!",
     "addServer.addressExist": "Dieser Server [IP/Port] existiert bereits in deiner Liste!",
     "addServer.nameExist": "Ein Server mit dem gleichen Namen ist bereits in deiner Liste vorhanden!",
     "addServer.notReachable": "Der Server ist nicht erreichbar!",
     "error.ad": "Die Werbung konnte nicht geladen werden. \nBitte überprüfe deine Internetverbindung, schalte die Dienste wie Ad-Blocker oder VPNs aus!",
-    "error.makePack": "Das Pack konnte nicht erstellen werden!",
-    "singleplayer.text": "Mit dieser Methode kannst du deine eigenen Texturpakete sowohl im Realms- als auch im Singleplayer-Modus in Minecraft haben. Dieses Video-Tutorial auf YouTube erklärt, wie der ganze Prozess funktioniert.<br><br>Tutorial 👉 <a href='https://youtube.com'>https://youtube.com</a>"
+    "error.makePack": "Das Pack konnte nicht erstellen werden! \nBitte prüfe, ob sich ein um ein Texture Pack für die Bedrock Edtion handelt!",
+    "singleplayer.text": "Mit dieser Methode kannst du deine eigenen Texturpakete sowohl im Realms- als auch im Singleplayer-Modus in Minecraft haben. Dieses Video-Tutorial auf YouTube erklärt, wie der ganze Prozess funktioniert.<br><br> <a href='https://youtu.be/TCGlk1MAmY4'>Tutorial</a>",
+    "FAILED_SINGLE_PLAYER_PACK": "Das Pack konnte nicht erstellen werden! \n \nBitte prüfe, ob sich ein um ein Texture Pack für die Bedrock Edtion handelt!"
 },

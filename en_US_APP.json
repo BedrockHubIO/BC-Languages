@@ -60,8 +60,9 @@
     "FAILED_QUERY": "Failed to query server!",
     "addServer.addressExist": "Server already [IP/Port] exists in your list!",
     "addServer.nameExist": "Server with the same name is already in your list!",
-    "addServer.notReachable": "Server is not reachable!",
+    "addServer.notReachable": "Server is not reachable! \nPlease check if the server is online at all and if it is meant for the Bedrock Edition!",
     "error.ad": "The ad could not be loaded. \nPlease check your internet connection and disable services such as ad-blockers or VPNs!",
-    "error.makePack": "Could not make pack!", 
-    "singleplayer.text": "With this method, you can have your own texture packs in both Realms and Singleplayer modes in Minecraft. This video tutorial on YouTube explains how the whole process works.<br><br>Tutorial 👉 <a href='https://youtube.com'>https://youtube.com</a>"
+    "error.makePack": "Could not make pack! \nPlease check if this is a texture pack for the Bedrock edition!", 
+    "singleplayer.text": "With this method, you can have your own texture packs in both Realms and Singleplayer modes in Minecraft. This video tutorial on YouTube explains how the whole process works.<br><br> <a href='https://youtu.be/TCGlk1MAmY4'>Tutorial</a>",
+    "FAILED_SINGLE_PLAYER_PACK": "Could not make pack! \n\nPlease check if this is a texture pack for the Bedrock edition!"
   },
