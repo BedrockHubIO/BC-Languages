@@ -63,5 +63,11 @@
     "error.ad": "Die Werbung konnte nicht geladen werden. \nBitte überprüfe deine Internetverbindung, schalte die Dienste wie Ad-Blocker oder VPNs aus!",
     "error.makePack": "Das Pack konnte nicht erstellen werden! \nBitte prüfe, ob sich ein um ein Texture Pack für die Bedrock Edtion handelt!",
     "singleplayer.text": "Mit dieser Methode kannst du deine eigenen Texturpakete sowohl im Realms- als auch im Singleplayer-Modus in Minecraft haben. Dieses Video-Tutorial auf YouTube erklärt, wie der ganze Prozess funktioniert.<br><br> <a href='https://youtu.be/TCGlk1MAmY4'>YouTube Channel: BedrockHubIO</a>",
-    "FAILED_SINGLE_PLAYER_PACK": "Das Pack konnte nicht erstellen werden! \n \nBitte prüfe, ob sich ein um ein Texture Pack für die Bedrock Edtion handelt!"
+    "FAILED_SINGLE_PLAYER_PACK": "Das Pack konnte nicht erstellen werden! \n \nBitte prüfe, ob sich ein um ein Texture Pack für die Bedrock Edtion handelt!",
+    "FAILED_MAKE_PACK_1": "Der Serverpack hat kein manifest.json Datei!",
+    "FAILED_MAKE_PACK_2": "Die Manifest.json Datei hat keine gültige formartierung!",
+    "FAILED_MAKE_PACK_3": "Dem Global-Pack fehlt eine manifest.json Datei und ist möglicherweise kein gültiges Minecraft Bedrock Pack!",
+    "FAILED_SINGLE_PLAYER_PACK_1": "Dem Global-Pack fehlt eine manifest.json Datei und ist möglicherweise kein gültiges Minecraft Bedrock Pack!",
+    "FAILED_SINGLE_PLAYER_PACK_2": "Die Datei manifest.json im Global-Pack ist nicht korrekt formatiert",
+    "FATAL": "Es ist ein unbekannter Fehler aufgetreten, bitte kontaktieren Sie den Support für Hilfe! \n \n https://discord.bedrockhub.io"
 },
