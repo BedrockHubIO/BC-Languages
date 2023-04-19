@@ -29,7 +29,7 @@
     "premium.customServerPack": "Eigenes ServerPack hinzufügen",
     "premium.customServerPack_": "(für nicht unterstützte Server)",
     "premium.queryForCustom": "Query Information für eigene Server",
-    "support.text": "Hast du ein Anliegen, eine Frage oder Feedback? Dann kannst du uns unter der folgenden Adresse erreichen: <a href='mailto:apps@rushnation.net'>apps@rushnation.net</a>\n<a href='https://privacy.rushnation.net'>Privacy Policy</a>\n<a href='https://terms.rushnation.net'>Terms & Conditions</a>",
+    "settings.info": "Hast du ein Anliegen, eine Frage oder Feedback? Dann kannst du uns unter der folgenden Adresse erreichen: <a href='mailto:apps@rushnation.net'>apps@rushnation.net</a>\n<a href='https://privacy.rushnation.net'>Privacy Policy</a>\n<a href='https://terms.rushnation.net'>Terms & Conditions</a>",
     "privacy.title": "Datenschutz",
     "privacy.text": "Beim Benutzen dieser App stimmst du den Datenschutz und Nutzungsbedingungen zu. Diese kannst du unter folgender Adresse finden <a href='https://privacy.rushnation.net'>Privacy</a>",
     "privacy.accept": "Akzeptieren",
@@ -62,6 +62,6 @@
     "addServer.notReachable": "Der Server ist nicht erreichbar!",
     "error.ad": "Die Werbung konnte nicht geladen werden. \nBitte überprüfe deine Internetverbindung, schalte die Dienste wie Ad-Blocker oder VPNs aus!",
     "error.makePack": "Das Pack konnte nicht erstellen werden! \nBitte prüfe, ob sich ein um ein Texture Pack für die Bedrock Edtion handelt!",
-    "singleplayer.text": "Mit dieser Methode kannst du deine eigenen Texturpakete sowohl im Realms- als auch im Singleplayer-Modus in Minecraft haben. Dieses Video-Tutorial auf YouTube erklärt, wie der ganze Prozess funktioniert.<br><br> <a href='https://youtu.be/TCGlk1MAmY4'>Tutorial</a>",
+    "singleplayer.text": "Mit dieser Methode kannst du deine eigenen Texturpakete sowohl im Realms- als auch im Singleplayer-Modus in Minecraft haben. Dieses Video-Tutorial auf YouTube erklärt, wie der ganze Prozess funktioniert.<br><br> <a href='https://youtu.be/TCGlk1MAmY4'>YouTube Channel: BedrockHubIO</a>",
     "FAILED_SINGLE_PLAYER_PACK": "Das Pack konnte nicht erstellen werden! \n \nBitte prüfe, ob sich ein um ein Texture Pack für die Bedrock Edtion handelt!"
 },
