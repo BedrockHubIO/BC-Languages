@@ -70,5 +70,5 @@
     "FAILED_MAKE_PACK_3": "The Global-Pack is missing a manifest.json file and may not be a valid Minecraft Bedrock pack",
     "FAILED_SINGLE_PLAYER_PACK_1": "The Global-Pack is missing a manifest.json file and may not be a valid Minecraft Bedrock pack",
     "FAILED_SINGLE_PLAYER_PACK_2": "The manifest.json file in the Global-Pack is improperly formatted",
-    "FATAL": "An unknown error occurred, please contact support for assistance"
+    "FATAL": "An unknown error occurred, please contact support for assistance.  \n \n https://discord.bedrockhub.io"
   },
