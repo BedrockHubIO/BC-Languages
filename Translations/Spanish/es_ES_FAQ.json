@@ -1,4 +1,4 @@
-"es_ES": [
+"es_ES": {
    {
 "q": "¿Qué paquetes de servidores son compatibles?",
 "a": "La aplicación BedrockConnect es compatible con cualquier servidor que esté listado en nuestra propia lista de servidores. Para descargar el paquete de servidor del servidor correspondiente, simplemente haz clic en el paquete junto al servidor. <br>Lista de servidores:<br> <br> 👉 <a href='https://serverlist.bedrockhub.io/'>https://serverlist.bedrockhub.io/</a>"
@@ -10,7 +10,7 @@
 {
 "q": "¿Cómo elijo un paquete de texturas?",
 "a": "Para evitar cualquier tipo de confusión, todo el proceso se mantiene muy simple y sin complicaciones. Navega a la configuración de nuestra aplicación, activa "Paquete de servidor" y selecciona el paquete de texturas deseado presionando "Establecer". < br> <br>¡El paquete de texturas debe ser un archivo .zip!<br> <br>Nuestra aplicación hace el resto automáticamente."
-},.
+},
 {
 "q": "¿Cómo agrego paquetes de servidor que no son compatibles?",
 "a": "¡Esta característica solo está disponible para usuarios premium! <br> <br> Si eres un usuario premium, puedes agregarlo en "Paquete de servidor personalizado". Simplemente navega a la lista de servidores personalizados, selecciona un servidor no compatible y presiona "Paquete de servidor" y selecciona un paquete de servidor. <br> Durante este proceso, nuestro sistema verifica en segundo plano si el paquete está cifrado o no. Si está cifrado, se creará automáticamente un subpaquete. <br> <br > Un paquete de servidor es un paquete de recursos del servidor y NO SE PUEDE REEMPLAZAR con un paquete de texturas normal!!! <br> <br> Por favor, solicita a tu servidor preferido que publique el paquete de servidor."
@@ -27,4 +27,4 @@
 "q": "¿Cómo puedo solicitar una asociación?",
 "a": "¡Los asociados tienen un estado especial en nuestra lista de servidores destacados y, por lo tanto, son visibles para todos! <br> <br> Los requisitos se enumeran en nuestro servidor de Discord, donde también se lleva a cabo la comunicación adicional. <br> <br> 👉 <a href='https://discord.bedrockhub.io'>https://discord.bedrockhub.io</a>"
 }
-  ]
+}
